@@ -1,1 +1,1 @@
-# Sistema-de-Reconhecimento-de-Padr-o-Comportamental-em-Redes-Sociais
+# TCC: Sistema de Reconhecimento de Padrão Comportamental em Redes Sociais
